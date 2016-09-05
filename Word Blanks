@@ -1,0 +1,8 @@
+function wordBlanks(myNoun, myNounTwo, myVerb, myVerbTwo) {
+  var result = "";
+result += "Speak to a " + myNoun + " in a language he understands, that goes to his  " + myNounTwo + ". " + myVerb + " to him in his language, that " + myVerbTwo + " to his heart.";
+
+  return result;
+}
+
+wordBlanks("man", "head", "Speak ", "goes");
