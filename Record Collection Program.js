@@ -1,5 +1,5 @@
 //This is a JSON object representing a part of a musical album collection. 
-//Each album has several properties and a unique id number as its key. 
+//Each album has several props and a unique id number as its key. 
 //Not all albums have complete information.
 //The purpose of this program is to add an album's id , a prop, and a value to modify the data in this collection.
 //Specific prop's without complete information are deleted.
