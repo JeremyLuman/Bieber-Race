@@ -35,9 +35,7 @@ function updateRecords(id, prop, value) {
   
   else if (value === "") {delete collection[id][prop];}
   
-  
   return collection;
 }
 //test
 updateRecords(5439, "artist", "ABBA");
-
